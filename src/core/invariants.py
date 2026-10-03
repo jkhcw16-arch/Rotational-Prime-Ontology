@@ -1,0 +1,3 @@
+# [Invariant System](ca://s?q=Explain_RPO_invariants)
+
+def check_invariants(data): ...
