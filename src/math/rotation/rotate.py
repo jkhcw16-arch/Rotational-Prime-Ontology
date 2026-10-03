@@ -1,0 +1,3 @@
+# [Prime Rotation](ca://s?q=Explain_RPO_prime_rotation)
+
+def rotate(embedding, p): ...
