@@ -1,0 +1,3 @@
+# [Φ₂ Alignment](ca://s?q=Explain_RPO_phi2)
+
+def phi2_alignment(embedding): ...
