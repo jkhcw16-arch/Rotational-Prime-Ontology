@@ -1,0 +1,3 @@
+# [Φ₃ Response](ca://s?q=Explain_RPO_phi3)
+
+def phi3_response(embedding): ...
