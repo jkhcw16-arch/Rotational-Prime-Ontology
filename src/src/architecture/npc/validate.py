@@ -1,0 +1,3 @@
+# [NPC Validator](ca://s?q=Explain_RPO_NPC)
+
+def validate(data): ...
