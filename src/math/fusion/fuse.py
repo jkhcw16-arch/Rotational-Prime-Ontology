@@ -1,0 +1,3 @@
+# [Fusion Engine](ca://s?q=Explain_RPO_fusion)
+
+def fuse(projections): ...
